@@ -1,0 +1,1 @@
+This file is part of a larger 'Keg Master' system, which integrates various sensors with the Azure Sphere and a Microchip PIC18f14K50 based PCB I developed. See my other repositories for more information.
